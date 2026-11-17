@@ -112,12 +112,6 @@ Aplikasi akan berjalan di `http://localhost:5000`.
 4. Klik tombol "Analisis Percakapan" untuk melihat hasil analisis gaya kelekatan
 5. Lihat ringkasan AI dan penjelasan frasa kunci
 
-## Peringatan Keamanan
-
-- Jangan commit file `.env` yang berisi API key asli ke GitHub (sudah diatur di `.gitignore`).
-- Ganti `SECRET_KEY` default sebelum produksi.
-- Jangan berbagi Personal Access Token GitHub kepada siapa pun.
-
 ## Lisensi
 
-Projek ini dikembangkan untuk keperluan pembelajaran / tugas kuliah.
+Projek ini dikembangkan untuk keperluan pembelajaran / penelitian.
